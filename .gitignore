@@ -1,0 +1,6 @@
+target/
+.env
+*.c
+*.h
+auth*
+*.db
